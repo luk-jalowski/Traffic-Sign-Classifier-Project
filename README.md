@@ -130,17 +130,17 @@ The model was able to correctly guess all the traffic signs.
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
 
 
-![alt text](./example_images/Sign1Pred.PNG.png)
+![alt text](./example_images/Sign1Pred.PNG)
 
-![alt text](./example_images/Sign2Pred.PNG.png)
+![alt text](./example_images/Sign2Pred.PNG)
 
-![alt text](./example_images/Sign3Pred.PNG.png)
+![alt text](./example_images/Sign3Pred.PNG)
 
-![alt text](./example_images/Sign4Pred.PNG.png)
+![alt text](./example_images/Sign4Pred.PNG)
 
-![alt text](./example_images/Sign5Pred.PNG.png)
+![alt text](./example_images/Sign5Pred.PNG)
 
-![alt text](./example_images/Sign6Pred.PNG.png)
+![alt text](./example_images/Sign6Pred.PNG)
 
 
 
