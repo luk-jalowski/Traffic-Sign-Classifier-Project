@@ -143,4 +143,5 @@ The model was able to correctly guess all the traffic signs.
 ![alt text](./example_images/Sign6Pred.PNG)
 
 
+* Model was able to correctly predict 5/6 images with 100% accuracy. Only exception was "No vehicles" sign, where model was only around 60% sure what sign it is.
 
